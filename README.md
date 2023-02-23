@@ -21,6 +21,8 @@ The identification of diphthongs and monophthongs is based on a combination of a
 * ruptures
 * python_speech_features
 
+
+## File structure
 The code is organized into different scripts for data preprocessing and classification.
 
 * `division.ipynb` is responsible for cutting vowels out from marked words
