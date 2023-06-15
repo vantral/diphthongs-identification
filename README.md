@@ -9,6 +9,7 @@ The repository includes csv tables obtained through the FastTrack plugin for Pra
 * Skolt Saami
 * Estonian
 * Lithuanian
+* Russian
 
 The data was collected during field work. We do not have corresponding permissions to share the audio files, however, the csvs with analyzed data are in free access.
 
